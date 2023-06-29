@@ -13,9 +13,9 @@
 
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/lbp-mashup-pack-java?logo=modrinth&logoColor=00AF5C&labelColor=%2323272A&color=00AF5C)](https://modrinth.com/resourcepack/lbp-mashup-pack-java)
-[![GameBanana](https://img.shields.io/badge/-GameBanana-yellow?logo=gamebanana&logoColor=white&color=yellow)](https://gamebanana.com/mods/443011)
+[![GameBanana](https://img.shields.io/badge/GameBanana-yellow?logo=gamebanana&logoColor=white&color=yellow)](https://gamebanana.com/mods/443011)
 [![PlanetMinecraft](https://img.shields.io/badge/-PlanetMinecraft-blue?logo=atandt&logoColor=white&labelColor=blue)](https://www.planetminecraft.com/texture-pack/java-minecraft-lbp-edition/)
-[![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/TabbyGarf/lbp-java-edition?logo=github&label=latest&labelColor=%2323272A)](https://github.com/TabbyGarf/lbp-java-edition/releases/tag/1.20.x)
+[![GitHub tag](https://img.shields.io/github/v/tag/TabbyGarf/lbp-java-edition?logo=github&label=latest&labelColor=%2323272A)](https://github.com/TabbyGarf/lbp-java-edition/releases/tag/1.20.x)
 
 
 </div></center>
