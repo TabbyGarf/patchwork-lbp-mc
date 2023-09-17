@@ -9,13 +9,12 @@
 
 ![Static Badge](https://img.shields.io/badge/EMF%2FETF_Compatible-blue?color=blue)
 ![Static Badge](https://img.shields.io/badge/CIT_Resewn_Compatible-red?color=teal)
-![Static Badge](https://img.shields.io/badge/OptiFine_Compatible-red?color=%23ff0000)
 
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/lbp-mashup-pack-java?logo=modrinth&logoColor=00AF5C&labelColor=%2323272A&color=00AF5C)](https://modrinth.com/resourcepack/lbp-mashup-pack-java)
-[![GameBanana](https://img.shields.io/badge/GameBanana-yellow?logo=gamebanana&logoColor=white&color=yellow)](https://gamebanana.com/mods/443011)
-[![PlanetMinecraft](https://img.shields.io/badge/-PlanetMinecraft-blue?logo=atandt&logoColor=white&labelColor=blue)](https://www.planetminecraft.com/texture-pack/java-minecraft-lbp-edition/)
-[![GitHub tag](https://img.shields.io/github/v/tag/TabbyGarf/lbp-java-edition?logo=github&label=latest&labelColor=%2323272A)](https://github.com/TabbyGarf/lbp-java-edition/releases/tag/1.20.x)
+![GitHub all releases](https://img.shields.io/github/downloads/TabbyGarf/lbp-java-edition/total?logo=github&labelColor=23272A&color=white&link=https%3A%2F%2Fgithub.com%2FTabbyGarf%2Flbp-java-edition%2Freleases)
+
+
 
 
 </div></center>
