@@ -11,8 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/CIT_Resewn_Compatible-red?color=teal)
 
 
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/lbp-mashup-pack-java?logo=modrinth&logoColor=00AF5C&labelColor=%2323272A&color=00AF5C)](https://modrinth.com/resourcepack/lbp-mashup-pack-java)
-![GitHub all releases](https://img.shields.io/github/downloads/TabbyGarf/lbp-java-edition/total?logo=github&labelColor=23272A&color=white&link=https%3A%2F%2Fgithub.com%2FTabbyGarf%2Flbp-java-edition%2Freleases)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/patchwork-lbp?logo=modrinth&logoColor=00AF5C&labelColor=%2323272A&color=00AF5C)](https://modrinth.com/resourcepack/patchwork-lbp)
+![GitHub all releases](https://img.shields.io/github/downloads/TabbyGarf/patchwork-lbp-mc/total?logo=github&labelColor=23272A&color=white&link=https%3A%2F%2Fgithub.com%2FTabbyGarf%2Fpatchwork-lbp-mc%2Freleases)
 
 
 
