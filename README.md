@@ -31,13 +31,7 @@
 
 # Introduction
 
-Introducing "LittleBigPlanet Mashup Pack: Java Edition" - a resource pack in progress inspired by the beloved "LittleBigPlanet Mashup Pack" from Minecraft: Bedrock Edition, now being developed for Minecraft's Java Edition.
-
-This pack aims to bring the whimsical charm and limitless creativity of LittleBigPlanet to Java Edition players. The textures are carefully designed to recreate the iconic art style of LittleBigPlanet, immersing players in a delightful fusion of Minecraft and the imaginative world of Sackboy.
-
-Featuring connected textures (CTM), every texture, item and music seamlessly integrates into the Minecraft world while capturing the essence of LittleBigPlanet. The pack's graphical user interface (GUI) elements, such as inventory screens and crafting interfaces, are also being reimagined to reflect the playful and vibrant nature of LittleBigPlanet.
-
-The textures in LittleBigPlanet Mashup Pack: Java Edition maintain a consistent and polished appearance, ensuring that blocks, mobs, and environments blend harmoniously with the LittleBigPlanet theme. Additionally, a selection of custom music tracks enhances the immersion, capturing the whimsy and adventure of the original LittleBigPlanet franchise.
+Patchwork is a texture pack made to port over the LBP Mashup Pack over to Java for newer versions, with additional features like CTM and CIT.
 
 
 
@@ -45,7 +39,7 @@ The textures in LittleBigPlanet Mashup Pack: Java Edition maintain a consistent 
 
 ![30% completion](https://media.discordapp.net/attachments/592805019590459403/1117840661526352013/mc_lbpediti2on.png)
 
-As a solo project, LittleBigPlanet Mashup Pack: Java Edition is being developed by a passionate Minecraft player. The pack will continue to evolve and expand, with ongoing refinements and updates to ensure compatibility with the latest versions of Minecraft. By embracing this resource pack, Java Edition players can embark on an enchanting journey that encapsulates the magic of LittleBigPlanet.
+As a solo project, LittleBigPlanet Mashup Pack: Java Edition is being made by one guy. The pack will continue to evolve and expand, with ongoing refinements and updates to ensure compatibility with the latest versions of Minecraft. By embracing this resource pack, Java Edition players can embark on an enchanting journey that encapsulates the magic of LittleBigPlanet.
 
-Please note that LittleBigPlanet Mashup Pack: Java Edition is an unofficial project and is not affiliated with Media Molecule.
+Please note that LittleBigPlanet Mashup Pack: Java Edition is an unofficial project and is not affiliated with Media Molecule or 4J Studios.
 </p>
